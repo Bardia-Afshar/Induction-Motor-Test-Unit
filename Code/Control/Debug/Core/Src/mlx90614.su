@@ -1,0 +1,6 @@
+mlx90614.c:13:9:CRC8_Calc	32	static
+mlx90614.c:33:6:MLX90614_Write	48	static
+mlx90614.c:53:10:MLX90614_Read	64	static
+mlx90614.c:76:6:MLX90614_SetEmissivity	24	static
+mlx90614.c:91:7:MLX90614_GetEmissivity	24	static
+mlx90614.c:100:7:MLX90614_GetTemp	24	static
